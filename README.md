@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Fábio Gutemberg 🤙🏻
 
 
-[![Portifólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://fabbiostudioportifolio.000webhostapp.com/portifolio/)
+[![Portifólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://fabbio-studios.github.io/my-portfolio/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@PlayerBrendan)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.youtube.com/@PlayerBrendan)
 
