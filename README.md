@@ -2,10 +2,12 @@
 
 **`Desenvolvedor WEB FullStack | Designer`**
 
-Me chamo Fábio Gutemberg e sou apaixonado por tecnologia, design e desenvolvimento web.  
-Utilizo a programação como ferramenta para transformar ideias em experiências digitais modernas, funcionais e criativas.
+Me chamo Fábio Gutemberg e sou apaixonado por tecnologia e design.  
+Utilizo a programação como ferramenta para transformar ideias em experiências digitais modernas, funcionais e visualmente impactantes.
 
-Atualmente, sigo evoluindo constantemente como desenvolvedor, explorando novas tecnologias e construindo projetos que unem código, estética e propósito.
+Atuo unindo **desenvolvimento e design**, criando projetos que não apenas funcionam bem, mas também comunicam, engajam e possuem identidade.
+
+Atualmente, sigo evoluindo constantemente, explorando novas tecnologias e aprimorando minha visão criativa para construir soluções com propósito.
 
 ---
 
@@ -39,7 +41,7 @@ Atualmente, sigo evoluindo constantemente como desenvolvedor, explorando novas t
 
 ---
 
-### 🚀 Linguagens e Tecnologias
+### 🎨🧠 Linguagens, Tecnologias & Design
 
 <img 
     align="left" 
@@ -160,8 +162,8 @@ Atualmente, sigo evoluindo constantemente como desenvolvedor, explorando novas t
 
 ### ⚜️ Filosofia
 
-> “A tecnologia é uma extensão da criatividade humana.”
+> “Design sem código é conceito. Código sem design é vazio.”
 
-Acredito no desenvolvimento constante, unindo disciplina, visão e criatividade para construir experiências digitais que tenham identidade e propósito.
+Busco evoluir constantemente unindo lógica e estética, criando experiências digitais que não apenas funcionam — mas também comunicam, impactam e permanecem.
 
 ---
