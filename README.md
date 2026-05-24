@@ -1,12 +1,11 @@
 # 👨🏻‍💻 Fábio Gutemberg
 
-**`Desenvolvedor WEB `**
+**`Desenvolvedor WEB FullStack | Designer`**
 
-Me chamo Fábio Gutemberg e sou apaixonado por tecnologia e design.  
-Vejo o desenvolvimento como uma forma de expressar ideias e transformar visão em realidade.
+Me chamo Fábio Gutemberg e sou apaixonado por tecnologia, design e desenvolvimento web.  
+Utilizo a programação como ferramenta para transformar ideias em experiências digitais modernas, funcionais e criativas.
 
-Atuo criando soluções web modernas, combinando **código, estética e propósito**.  
-Atualmente, estou focado em evoluir constantemente como desenvolvedor e construir projetos que gerem impacto real.
+Atualmente, sigo evoluindo constantemente como desenvolvedor, explorando novas tecnologias e construindo projetos que unem código, estética e propósito.
 
 ---
 
@@ -20,14 +19,16 @@ Atualmente, estou focado em evoluir constantemente como desenvolvedor e construi
             src="https://custom-icon-badges.demolab.com/badge/Instagram-Fábio%20Gutemberg-E4405F?logo=instagram&logoColor=white&style=for-the-badge"
         />
     </a>
-    <a href="https://github.com/Fabbio-Studios?tab=followers">
+
+<a href="https://github.com/Fabbio-Studios?tab=followers">
         <img 
             alt="Seguidores GitHub" 
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/Fabbio-Studios?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="https://github.com/Fabbio-Studios?tab=repositories&sort=stargazers">
+
+<a href="https://github.com/Fabbio-Studios?tab=repositories&sort=stargazers">
         <img 
             alt="Estrelas GitHub" 
             title="Total de estrelas" 
@@ -38,7 +39,7 @@ Atualmente, estou focado em evoluir constantemente como desenvolvedor e construi
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🚀 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -47,6 +48,7 @@ Atualmente, estou focado em evoluir constantemente como desenvolvedor e construi
     width="30px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
 />
+
 <img 
     align="left" 
     alt="CSS"
@@ -54,6 +56,7 @@ Atualmente, estou focado em evoluir constantemente como desenvolvedor e construi
     width="30px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
 />
+
 <img 
     align="left" 
     alt="JavaScript"
@@ -61,6 +64,31 @@ Atualmente, estou focado em evoluir constantemente como desenvolvedor e construi
     width="30px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Next.js"
+    title="Next.js" 
+    width="30px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Vite"
+    title="Vite" 
+    width="30px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" 
+/>
+
 <img 
     align="left" 
     alt="Node.js"
@@ -68,6 +96,7 @@ Atualmente, estou focado em evoluir constantemente como desenvolvedor e construi
     width="30px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Python"
@@ -75,6 +104,7 @@ Atualmente, estou focado em evoluir constantemente como desenvolvedor e construi
     width="30px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
 />
+
 <img 
     align="left" 
     alt="PHP"
@@ -82,6 +112,7 @@ Atualmente, estou focado em evoluir constantemente como desenvolvedor e construi
     width="30px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Django"
@@ -89,6 +120,7 @@ Atualmente, estou focado em evoluir constantemente como desenvolvedor e construi
     width="30px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" 
 />
+
 <img 
     align="left" 
     alt="MySQL"
@@ -96,6 +128,7 @@ Atualmente, estou focado em evoluir constantemente como desenvolvedor e construi
     width="30px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Bootstrap"
@@ -103,6 +136,7 @@ Atualmente, estou focado em evoluir constantemente como desenvolvedor e construi
     width="30px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" 
 />
+
 <img 
     align="left" 
     alt="jQuery"
@@ -110,6 +144,7 @@ Atualmente, estou focado em evoluir constantemente como desenvolvedor e construi
     width="30px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Figma"
@@ -123,33 +158,10 @@ Atualmente, estou focado em evoluir constantemente como desenvolvedor e construi
 
 ---
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=Fabbio-Studios&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-  <img 
-    align="left" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabbio-Studios&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
-  />
-</p>
-
-<br/>
-<br/>
-<br/>
-
----
-
 ### ⚜️ Filosofia
 
-> "A tecnologia é mais do que código — é uma extensão da visão humana."
+> “A tecnologia é uma extensão da criatividade humana.”
 
-Busco evoluir constantemente, unindo **disciplina, criatividade e propósito**.  
-Não estou apenas escrevendo código — estou construindo minha própria trajetória.
+Acredito no desenvolvimento constante, unindo disciplina, visão e criatividade para construir experiências digitais que tenham identidade e propósito.
 
 ---
