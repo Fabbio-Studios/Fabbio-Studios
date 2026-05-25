@@ -21,22 +21,6 @@ Atualmente, sigo evoluindo constantemente, explorando novas tecnologias e aprimo
             src="https://custom-icon-badges.demolab.com/badge/Instagram-Fábio%20Gutemberg-E4405F?logo=instagram&logoColor=white&style=for-the-badge"
         />
     </a>
-
-<a href="https://github.com/Fabbio-Studios?tab=followers">
-        <img 
-            alt="Seguidores GitHub" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Fabbio-Studios?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-
-<a href="https://github.com/Fabbio-Studios?tab=repositories&sort=stargazers">
-        <img 
-            alt="Estrelas GitHub" 
-            title="Total de estrelas" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Fabbio-Studios?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
-        />
-    </a>
 </p>
 
 ---
