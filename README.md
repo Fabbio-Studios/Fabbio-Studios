@@ -25,7 +25,7 @@ Atualmente, sigo evoluindo constantemente, explorando novas tecnologias e aprimo
 
 ---
 
-### 🎨🧠 Linguagens, Tecnologias & Design
+### 🎨🧠 Linguagens e Tecnologias
 
 <img 
     align="left" 
